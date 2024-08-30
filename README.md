@@ -26,22 +26,7 @@
     <img src="gitimg/2.jpg" width="200">
     <img src="gitimg/3.jpg" width="200">
     <img src="gitimg/4.jpg" width="200">
-    <img src="gitimg/5.jpg" width="200">
-    <img src="gitimg/6.jpg" width="200">
-    <img src="gitimg/7.jpg" width="200">
-    <img src="gitimg/8.jpg" width="200">
-    <img src="gitimg/9.jpg" width="200">
-    <img src="gitimg/10.jpg" width="200">
-    <img src="gitimg/11.jpg" width="200">
-    <img src="gitimg/12.jpg" width="200">
-    <img src="gitimg/13.jpg" width="200">
-    <img src="gitimg/14.jpg" width="200">
-    <img src="gitimg/15.jpg" width="200">
-    <img src="gitimg/16.jpg" width="200">
-    <img src="gitimg/17.jpg" width="200">
-    <img src="gitimg/18.jpg" width="200">
-    <img src="gitimg/19.jpg" width="200">
-    <img src="gitimg/20.jpg" width="200">
+
 </div>
 
 ## Prerequisites
@@ -108,6 +93,4 @@ This guide will help you set up Firebase Authentication and Firebase Database fo
 
 ### Add your RozarPay Api key on :
 
-Online_Shopping_App-flutter.firebase.rozarpay\lib\profile\cart_page.dart
 
-Happy coding!
